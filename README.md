@@ -4,4 +4,5 @@ Vamos a modificarlo un poco.
 
 ## \#\# -> H2
 Esto está en **negrita** 
-Esto no está en \**negrita\**
+Esto no está en \*\*negrita\*\*
+Y esto, --no sé--
