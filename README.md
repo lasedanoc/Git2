@@ -5,4 +5,4 @@ Vamos a modificarlo un poco.
 ## \#\# -> H2
 Esto está en **negrita** 
 Esto no está en \*\*negrita\*\*
-Y esto, --no sé--
+Y esto, _\_no sé\__
